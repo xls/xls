@@ -4,7 +4,7 @@
 
 Born and raised in Stockholm, :sweden:  
 Family originally from Thessaloniki, :greece:  
-Lived in Austin TX & Los Angeles CA, :us:  for about 10 years.
+Lived in Austin TX & Los Angeles CA, :us:  for about 10 years.  
 Currently in Sydney, :australia:  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xls&layout=compact&theme=dracula&count_private=true)  
