@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on anything from kernels drivers to graphics engines.
-.
+I’m currently working on anything from kernels drivers to graphics engines.
 
 Born and raised in Stockholm, :sweden:  
 Family originally from Thessaloniki, :greece:  
