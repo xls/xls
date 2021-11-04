@@ -7,11 +7,10 @@ Family originally from Thessaloniki, :greece:
 Lived in Austin TX & Los Angeles CA, :us:  for about 10 years.  
 Currently in Sydney, :australia:  
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xls&layout=compact&theme=dracula&count_private=true)  
-![Streaks](https://github-readme-stats.vercel.app/api?username=xls&show_icons=true&count_private=true&theme=dracula&layout=compact)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=xls&theme=dracula&count_private=true)
-
-
+<!-- ![Streaks](https://github-readme-stats.vercel.app/api?username=xls&show_icons=true&count_private=true&theme=dracula&layout=compact) -->
 <!--
 Here are some ideas to get you started:
 
