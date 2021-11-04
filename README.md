@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**xls/xls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" >  
+  <img  src="https://github-readme-stats.vercel.app/api?username=xls&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xls&theme=dark"/>
+</p>
