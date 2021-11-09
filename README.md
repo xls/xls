@@ -4,7 +4,7 @@ I’m currently working on anything from kernels drivers to graphics engines.
 
 Born and raised in Stockholm, :sweden:  
 Family originally from Thessaloniki, :greece:  
-Lived in Austin TX & Los Angeles CA, :us:  for about 10 years.  
+Lived in Austin TX & Los Angeles CA, :us: 
 Currently in Sydney, :australia:  
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=xls&theme=dracula&count_private=true)
