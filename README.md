@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on anything from kernels drivers to graphics engines.
+I’m currently working on anything from kernels drivers, silly embedded stuff for drones to graphics engines that will never ship ;)
 
 Born and raised in Stockholm, :sweden:  
 Family originally from Thessaloniki, :greece:  
