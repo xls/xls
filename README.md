@@ -2,9 +2,9 @@
 
 Born and raised in Stockholm, :sweden:  
 Family from Thessaloniki, :greece:  
-Lived in Austin TX & Los Angeles CA, :us:  
-Lving in Sydney, :australia:  
-Next up, :new_zealand ? 
+Lived in Austin TX & Los Angeles CA, :us: 
+Living in Sydney, :australia:  
+
 
 Favorites: K & S
 
